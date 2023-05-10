@@ -422,7 +422,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "LV_MASTER_A_SAMPLE.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
