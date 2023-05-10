@@ -1466,7 +1466,7 @@
       (reference "R28") (unit 1) (value "50mR") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
     )
     (path "/ea1673b4-276a-4a54-bb21-2ee06f03a81f/24623db2-a312-4f6b-b760-bc08df170eeb"
-      (reference "R?") (unit 1) (value "50mR") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+      (reference "R29") (unit 1) (value "50mR") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
     )
     (path "/7bf4be24-e1c4-4048-8de3-b620ccf84127/3764f3e8-2005-4f87-8203-08116c083896"
       (reference "T1") (unit 1) (value "HX1188NL") (footprint "BMS_Library:SOIC127P940X597-16N")

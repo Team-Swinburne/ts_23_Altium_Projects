@@ -1975,7 +1975,7 @@
   (symbol (lib_id "ERJP06F1000V:ERJP06F1000V") (at 135.89 175.26 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 24623db2-a312-4f6b-b760-bc08df170eeb)
-    (property "Reference" "R?" (id 0) (at 139.7 186.69 90))
+    (property "Reference" "R29" (id 0) (at 139.7 186.69 90))
     (property "Value" "50mR" (id 1) (at 139.7 184.15 90))
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (id 2) (at 137.16 189.23 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
