@@ -1,4 +1,4 @@
-20158425936102507
+20160110225620829
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -188,6 +188,13 @@ Transistor BJT NPN
 0
 4
 4
+BMS_Library
+TLV_10X10.5_
+TLV(10x10.5)
+Capacitor Polarised
+0
+2
+2
 BMS_Library
 V23105A5405A201
 V23105A5405A201-1
