@@ -1,4 +1,4 @@
-20128197740157481
+20161795052686285
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -13,6 +13,20 @@ audio belton reverb
 0
 7
 7
+BMS_Library
+7762761
+776276-1-2
+Connector
+0
+12
+12
+BMS_Library
+ABLS
+ABLS
+Crystal or Oscillator
+0
+2
+2
 BMS_Library
 CAPC2012X70N
 0805-ren12
@@ -42,6 +56,48 @@ Switch
 6
 6
 BMS_Library
+DT04-08PB-L012
+
+
+0
+8
+8
+BMS_Library
+DT12-PCB PIN
+
+
+0
+12
+12
+BMS_Library
+DT1508PA
+DT15-08PA-2
+Connector
+0
+12
+12
+BMS_Library
+DT1512PA
+DT15-12PA-2
+Connector
+0
+14
+14
+BMS_Library
+DTF1512PA
+DTF15-12PA-1
+Connector
+0
+12
+12
+BMS_Library
+DTM12
+
+
+0
+12
+12
+BMS_Library
 ERJ6_B_BW_R_LW_CW_D
 ERJ6_B_BW_R_LW_CW_D
 Resistor
@@ -52,6 +108,13 @@ BMS_Library
 ERJP06_(0805)
 ERJP06_(0805)
 Resistor
+0
+2
+2
+BMS_Library
+FC135327680KAA5
+FC-135 32.7680KA-A5-1
+Crystal or Oscillator
 0
 2
 2
@@ -63,12 +126,26 @@ Fuse
 2
 2
 BMS_Library
+FUSC7451X170N
+2920 imperial
+Fuse
+0
+2
+2
+BMS_Library
 LTC6811
 48-Lead Plastic SSOP (5.3mm)
 Integrated Circuit
 0
 48
 48
+BMS_Library
+R2S0505HP
+R2S-0505/HP-2
+Power Supply
+0
+5
+5
 BMS_Library
 RESC2012X75N
 ERJP6W
@@ -83,6 +160,20 @@ Connector
 0
 2
 2
+BMS_Library
+SM3ZS067U310AER1200
+SM3ZS067U310AER1200-2
+Connector
+0
+69
+69
+BMS_Library
+SOIC127P600X175-8N
+SIA (8-PIN SOIC)
+Integrated Circuit
+0
+8
+8
 BMS_Library
 SOIC127P940X597-16N
 HX1188NL-1
@@ -101,6 +192,27 @@ BMS_Library
 SOT230P700X180-4N
 SOT-223
 Transistor BJT NPN
+0
+4
+4
+BMS_Library
+TLV_10X10.5_
+TLV(10x10.5)
+Capacitor Polarised
+0
+2
+2
+BMS_Library
+V23105A5405A201
+V23105A5405A201-1
+Relay or Contactor
+0
+8
+8
+BMS_Library
+WE-SL575
+WE-SL575
+Inductor
 0
 4
 4
@@ -49161,6 +49273,13 @@ SMD SMT crystal
 2
 2
 Crystal
+ECS-80-18-30-JGN-TR
+
+
+0
+2
+2
+Crystal
 Resonator-2Pin_W6.0mm_H3.0mm
 Ceramic Resomator/Filter 6.0x3.0mm^2, length*width=6.0x3.0mm^2 package, package length=6.0mm, package width=3.0mm, 2 pins
 THT ceramic resonator filter
@@ -49836,6 +49955,13 @@ Diode_SMD
 Nexperia_CFP3_SOD-123W
 Nexperia CFP3 (SOD-123W), https://assets.nexperia.com/documents/outline-drawing/SOD123W.pdf
 CFP3 SOD-123W
+0
+2
+2
+Diode_SMD
+SD560BTR
+
+
 0
 2
 2
@@ -53648,6 +53774,13 @@ wurth wuerth smd inductor
 2
 2
 Inductor_THT
+B82786C0104H002
+
+
+0
+4
+4
+Inductor_THT
 Choke_EPCOS_B82722A
 Current-Compensated Ring Core Double Chokes, EPCOS, B82722A, 22.3mmx22.7mm, https://en.tdk.eu/inf/30/db/ind_2008/b82722a_j.pdf
 chokes epcos tht
@@ -56811,6 +56944,13 @@ AI Kendryte K210 RISC-V
 0
 85
 77
+Module
+Teensy 4.0
+
+
+0
+28
+28
 Module
 Texas_EUK_R-PDSS-T7_THT
 Texas Instruments EUK 7 Pin Double Sided Module
