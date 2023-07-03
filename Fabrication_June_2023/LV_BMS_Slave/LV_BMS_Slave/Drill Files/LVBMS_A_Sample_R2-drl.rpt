@@ -1,5 +1,5 @@
 Drill report for LVBMS_A_Sample_R2.kicad_pcb
-Created on 25/06/2023 9:52:29 PM
+Created on 3/07/2023 8:37:50 PM
 
 Copper Layer Stackup:
     =============================================================
@@ -10,16 +10,17 @@ Copper Layer Stackup:
 Drill file 'LVBMS_A_Sample_R2.drl' contains
     plated through holes:
     =============================================================
-    T1  0.250mm  0.0098"  (127 holes)
+    T1  0.250mm  0.0098"  (141 holes)
     T2  0.300mm  0.0118"  (1 hole)
     T3  0.400mm  0.0157"  (51 holes)
-    T4  1.000mm  0.0394"  (22 holes)
+    T4  1.000mm  0.0394"  (27 holes)
 
-    Total plated holes count 201
+    Total plated holes count 220
 
 
 Not plated through holes are merged with plated holes
     unplated through holes:
     =============================================================
+    T5  1.200mm  0.0472"  (2 holes)
 
-    Total unplated holes count 0
+    Total unplated holes count 2
