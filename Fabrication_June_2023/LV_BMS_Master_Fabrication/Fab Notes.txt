@@ -9,6 +9,6 @@ Signal Layers: 1, 2
 	a) Weight: 1oz
 Solder Mask: Blue
 Silkscreen: White
-Surface Finish: OSP
+Surface Finish: ENIG
 Finished Copper: 2oz Cu
 Total Thickness: 1.6mm
