@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: LV_TERMINAL_BOARD_A_SAMPLE.PcbDoc   3/07/2023  6:03:38 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : LV_TERMINAL_BOARD_A_SAMPLE.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.711mm (28mil)                                           Round             1         PTH        0.00mm (0.00inch)
+T2      0.9mm (35mil)                                             Round             5         PTH        10.16mm (0.40inch)
+T3      1mm (39mil)                                               Round             21        PTH        121.39mm (4.78inch)
+T4      6.2mm (244mil)                                            Round             6         PTH        213.71mm (8.41inch)
+T5      8.2mm (323mil)                                            Round             2         PTH        129.62mm (5.10inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              35
+
+Total Processing Time (hh:mm:ss) : 00:00:00

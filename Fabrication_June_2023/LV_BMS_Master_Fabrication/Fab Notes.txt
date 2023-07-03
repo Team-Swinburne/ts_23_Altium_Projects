@@ -1,0 +1,14 @@
+------------------------------------
+-----LV BMS MASTER FAB NOTES-------
+-----------------------------------
+
+Qty: 5
+Dimensions: 90.5mm X 49.9mm
+Layers: 4
+Signal Layers: 1, 2
+	a) Weight: 1oz
+Solder Mask: Blue
+Silkscreen: White
+Surface Finish: OSP
+Finished Copper: 2oz Cu
+Total Thickness: 1.6mm

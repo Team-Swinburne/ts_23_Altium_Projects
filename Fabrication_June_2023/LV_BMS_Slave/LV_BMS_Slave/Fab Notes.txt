@@ -1,0 +1,14 @@
+------------------------------------
+-----LV BMS Slave Fab Notes-------
+-----------------------------------
+
+Qty: 10
+Dimensions: 48.2mm X 53.5mm
+Layers: 2
+Signal Layers: 1, 2
+	a) Weight: 1oz
+Solder Mask: Red
+Silkscreen: White
+Surface Finish: OSP
+Finished Copper: 2oz Cu
+Total Thickness: 1.6mm
