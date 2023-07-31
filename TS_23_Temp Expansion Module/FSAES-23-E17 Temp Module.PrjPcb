@@ -168,57 +168,6 @@ GenerateClassCluster=0
 DocumentUniqueId=NKKSVPOT
 
 [Document8]
-DocumentPath=..\..\..\..\Natalie\Documents\GitHub\ts_20-pcb-development-master\ts_20-pcb-development\~ts_20 Library\ts_20-rules.RUL
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document9]
-DocumentPath=..\..\..\..\Natalie\Documents\GitHub\ts_20-pcb-development-master\ts_20-pcb-development\~ts_20 Library\ts_20-standard-connectors\ts_20-standard-connectors.DbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document10]
-DocumentPath=..\..\..\..\Natalie\Documents\GitHub\ts_20-pcb-development-master\ts_20-pcb-development\~ts_20 Library\ts_20-standard-library\ts_20-standard-library.DbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document11]
 DocumentPath=Gerber.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -235,7 +184,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document9]
 DocumentPath=Drill.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -251,122 +200,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for FSAES-23-E17 Temp Module\FSAES-22-E17 Temp Module PCB.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for FSAES-22-E17 Temp Module\FSAES-22-E17 Temp Module PCB.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for FSAES-23-E17 Temp Module\FSAES-22-E17 Temp Module PCB.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for FSAES-22-E17 Temp Module\FSAES-22-E17 Temp Module PCB.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for FSAES-23-E17 Temp Module\FSAES-22-E17 Temp Module PCB.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for FSAES-22-E17 Temp Module\FSAES-22-E17 Temp Module PCB.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for FSAES-23-E17 Temp Module\FSAES-22-E17 Temp Module PCB.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for FSAES-22-E17 Temp Module\FSAES-22-E17 Temp Module PCB.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for FSAES-23-E17 Temp Module\FSAES-22-E17 Temp Module PCB.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for FSAES-22-E17 Temp Module\FSAES-22-E17 Temp Module PCB.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for FSAES-23-E17 Temp Module\FSAES-22-E17 Temp Module PCB.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for FSAES-22-E17 Temp Module\FSAES-22-E17 Temp Module PCB.GM
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for FSAES-23-E17 Temp Module\FSAES-22-E17 Temp Module PCB.GM
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for FSAES-22-E17 Temp Module\FSAES-22-E17 Temp Module PCB.GP1
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for FSAES-23-E17 Temp Module\FSAES-22-E17 Temp Module PCB.GP1
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for FSAES-22-E17 Temp Module\FSAES-22-E17 Temp Module PCB.GP2
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for FSAES-23-E17 Temp Module\FSAES-22-E17 Temp Module PCB.GP2
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for FSAES-22-E17 Temp Module\FSAES-22-E17 Temp Module PCB.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for FSAES-23-E17 Temp Module\FSAES-22-E17 Temp Module PCB.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for FSAES-22-E17 Temp Module\FSAES-22-E17 Temp Module PCB.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for FSAES-23-E17 Temp Module\FSAES-22-E17 Temp Module PCB.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for FSAES-22-E17 Temp Module\FSAES-22-E17 Temp Module PCB.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for FSAES-23-E17 Temp Module\FSAES-22-E17 Temp Module PCB.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project Outputs for FSAES-22-E17 Temp Module\FSAES-22-E17 Temp Module PCB.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project Outputs for FSAES-23-E17 Temp Module\FSAES-22-E17 Temp Module PCB.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Project Outputs for FSAES-23-E17 Temp Module\FSAES-22-E17 Temp Module PCB.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project Outputs for FSAES-22-E17 Temp Module\FSAES-22-E17 Temp Module PCB.REP
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Project Outputs for FSAES-23-E17 Temp Module\FSAES-22-E17 Temp Module PCB.REP
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=Project Outputs for FSAES-23-E17 Temp Module\FSAES-22-E17 Temp Module PCB.TXT
-DItemRevisionGUID=
 
 [Parameter1]
 Name=Engineers
@@ -500,7 +333,7 @@ OutputDefault21=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Wondershare PDFelement
+TargetPrinter=EPSON ET-3700 Series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AdvSimNetlist
 OutputName1=Mixed Sim
@@ -591,12 +424,6 @@ OutputDocumentPath13=
 OutputVariantName13=
 OutputDefault13=0
 PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType14=PCBDrawing
-OutputName14=Draftsman
-OutputDocumentPath14=
-OutputVariantName14=[No Variations]
-OutputDefault14=0
-PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup4]
 Name=Assembly Outputs
@@ -748,12 +575,6 @@ OutputName8=Report Single Pin Nets
 OutputDocumentPath8=
 OutputVariantName8=[No Variations]
 OutputDefault8=0
-OutputType9=Project History
-OutputName9=Project History
-OutputDocumentPath9=
-OutputVariantName9=[No Variations]
-OutputDefault9=0
-PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup7]
 Name=Other Outputs
@@ -1104,7 +925,6 @@ Type116=1
 Type117=1
 Type118=1
 Type119=1
-Type120=1
 
 [Difference Levels]
 Type1=1
