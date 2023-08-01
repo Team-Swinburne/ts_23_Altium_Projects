@@ -1,0 +1,35 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [FSAES-23-E17 Temp Module.PrjPcb]
+   Generated File[FSAES-22-E17 Temp Module PCB.GTO]
+   Generated File[FSAES-22-E17 Temp Module PCB.GTP]
+   Generated File[FSAES-22-E17 Temp Module PCB.GTS]
+   Generated File[FSAES-22-E17 Temp Module PCB.GTL]
+   Generated File[FSAES-22-E17 Temp Module PCB.GP1]
+   Generated File[FSAES-22-E17 Temp Module PCB.GP2]
+   Generated File[FSAES-22-E17 Temp Module PCB.GBL]
+   Generated File[FSAES-22-E17 Temp Module PCB.GBS]
+   Generated File[FSAES-22-E17 Temp Module PCB.GBP]
+   Generated File[FSAES-22-E17 Temp Module PCB.GBO]
+   Generated File[FSAES-22-E17 Temp Module PCB.GM1]
+   Generated File[FSAES-22-E17 Temp Module PCB.GM2]
+   Generated File[FSAES-22-E17 Temp Module PCB.GM3]
+   Generated File[FSAES-22-E17 Temp Module PCB.GM5]
+   Generated File[FSAES-22-E17 Temp Module PCB.GM13]
+   Generated File[FSAES-22-E17 Temp Module PCB.GM15]
+   Generated File[FSAES-22-E17 Temp Module PCB.GM16]
+   Generated File[FSAES-22-E17 Temp Module PCB.GM20]
+   Generated File[FSAES-22-E17 Temp Module PCB.GM21]
+   Generated File[FSAES-22-E17 Temp Module PCB.GM23]
+   Generated File[FSAES-22-E17 Temp Module PCB.GM24]
+   Generated File[FSAES-22-E17 Temp Module PCB.GKO]
+   Generated File[FSAES-22-E17 Temp Module PCB.GPT]
+   Generated File[FSAES-22-E17 Temp Module PCB.GPB]
+   Generated File[FSAES-22-E17 Temp Module PCB.EXTREP]
+   Generated File[FSAES-22-E17 Temp Module PCB.REP]
+
+
+Files Generated   : 26
+Documents Printed : 0
+
+Finished Output Generation At 5:34:33 PM On 1/08/2023

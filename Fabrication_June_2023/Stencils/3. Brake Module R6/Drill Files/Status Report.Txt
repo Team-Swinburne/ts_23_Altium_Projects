@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [200415 Brake Module R5.PrjPcb]
+   Generated File[Brake Module R6.TXT]
+   Generated File[Brake Module R6.LDP]
+   Generated File[Brake Module R6.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 5:21:20 PM On 1/08/2023

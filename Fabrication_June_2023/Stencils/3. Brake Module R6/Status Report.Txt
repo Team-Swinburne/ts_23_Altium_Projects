@@ -1,0 +1,33 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [200415 Brake Module R5.PrjPcb]
+   Generated File[Brake Module R6.GTO]
+   Generated File[Brake Module R6.GTP]
+   Generated File[Brake Module R6.GTS]
+   Generated File[Brake Module R6.GTL]
+   Generated File[Brake Module R6.G1]
+   Generated File[Brake Module R6.G2]
+   Generated File[Brake Module R6.GBL]
+   Generated File[Brake Module R6.GBS]
+   Generated File[Brake Module R6.GBP]
+   Generated File[Brake Module R6.GBO]
+   Generated File[Brake Module R6.GM1]
+   Generated File[Brake Module R6.GM13]
+   Generated File[Brake Module R6.GM15]
+   Generated File[Brake Module R6.GM20]
+   Generated File[Brake Module R6.GM21]
+   Generated File[Brake Module R6.GM23]
+   Generated File[Brake Module R6.GM24]
+   Generated File[Brake Module R6.GPT]
+   Generated File[Brake Module R6.GPB]
+   Generated File[Brake Module R6.GD1]
+   Generated File[Brake Module R6.GG1]
+   Generated File[Brake Module R6.RUL]
+   Generated File[Brake Module R6.EXTREP]
+   Generated File[Brake Module R6.REP]
+
+
+Files Generated   : 24
+Documents Printed : 0
+
+Finished Output Generation At 5:21:49 PM On 1/08/2023
