@@ -269,6 +269,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document14]
+DocumentPath=..\..\ts_standard_library\components\ts_standard_library.DbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for 200415 Brake Module R5\Brake Module R6.EXTREP
 DItemRevisionGUID=
@@ -363,6 +380,10 @@ DItemRevisionGUID=
 
 [GeneratedDocument24]
 DocumentPath=Project Outputs for 200415 Brake Module R5\Brake Module R6.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for 200415 Brake Module R5\Design Rule Check - Brake Module R6.html
 DItemRevisionGUID=
 
 [Parameter1]
