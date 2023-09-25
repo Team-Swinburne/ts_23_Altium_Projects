@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Brake Module R6.PcbDoc   1/08/2023  5:21:20 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Brake Module R6.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.25mm (10mil)                                            Round             315       PTH        1782.27mm (70.17inch)
+T2      0.5mm (20mil)                                             Round             2         PTH        11.95mm (0.47inch)
+T3      0.63mm (25mil)                                            Round             9         PTH        88.73mm (3.49inch)
+T4      0.64mm (25mil)                                            Round             3         PTH        5.08mm (0.20inch)
+T5      0.9mm (35mil)                                             Round             30        PTH        175.39mm (6.91inch)
+T6      1mm (39mil)                                               Round             3         PTH        5.08mm (0.20inch)
+T7      1.9mm (75mil)                                             Round             18        PTH        153.41mm (6.04inch)
+T8      3.3mm (130mil)                                            Round             8         NPTH       320.62mm (12.62inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              388
+
+Total Processing Time (hh:mm:ss) : 00:00:00
